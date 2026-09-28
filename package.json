@@ -1,0 +1,16 @@
+{
+  "name": "attendwise",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "AttendWise: Smart Attendance. Smarter Decisions.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node --test"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}
